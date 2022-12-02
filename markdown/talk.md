@@ -1,0 +1,352 @@
+Yes, I know I'm the person between you and your drinks. I do
+acknowledge that. And I also understand that I might be the person
+between you and your hummus. Which in this country is probably even
+worse. And then, so you might be thinking, what on earth is this guy
+talking about? And why is he here? This is, after all, a technology
+conference. And not only that, it's a DevOps meeting. So that means
+that we're all about incrementally improving things, gradually
+changing and reimplementing things without breaking them. Where's the
+room for creativity in that?
+
+And I'll forgive you for thinking that, because there are two very
+common misconceptions about creativity. They're both very wrong, but
+they're very, very common. The one misconception is that a creativity
+is somehow the domain of the arts, that it happens in painting, music,
+drama, dance, fiction, poetry, etc. But nowhere else. And the second
+misconception is that creativity happens in big leaps, as in Mozart
+writing a new Symphony or or Stephen King writing a new novel. Nothing
+could be further from the truth. Both of those things could not be
+further from the truth.
+
+Creativity is "the process of having original ideas that have
+value." Now that's not my own definition. That's a definition that
+comes from Sir Ken Robinson, who was one of the most eminent advocates
+of education reform in the last twenty to thirty years in the UK and
+in the U.S.
+
+And Sir Ken frequently made the case that schools, or education in
+general, doesn't do enough for creativity. And he always championed
+the value of creativity in education. And he was always happy to point
+out that that didn't come out of a hippy-touchyfeely let's all be
+artists, let's all be musicians kind of approach, but rather out of
+economic necessity.
+
+When we think about what the purpose of an education
+is, I think most people would agree that one central purpose of
+an education is to turn children into functioning valuable members
+of society, what we typically call a functional adult. So that's a
+general expectation that we have of the education system. Turn out
+people who are well-developed, valuable members of society. 
+
+And now in most countries, children enter the education system when
+they're somewhere between three and six years old, and in most
+countries they exit the education system when they're either in their
+late teens or in their early twenties. We'll leave out academia for a
+bit because of course those people, people who go on into academic
+careers, they stay in educational institutions for longer because they
+themselves then go into teaching and research.
+
+But in most countries, young adults exit the education system when
+they're in their late teens or early twenties. So that means that this
+spans a period of fifteen to twenty years.
+
+So the education that a child enters at a certain age is basically
+meant to prepare the child for the world fifteen to twenty years in
+the future. When we have no idea what the world's gonna look like six
+months from now, or a year from now.
+
+If we want to do a quick thought experiment, assume that a person from
+today travels into the past, travels through time, into the past,
+meets you a year ago and then reads you the headlines of today's
+news. You would probably dismiss that person as a lunatic. Likewise,
+if there was a person visiting from the future today from a year in
+the future, coming back to today and reading you the headlines of that
+day, you'd probably dismiss that person as lunatic as well. And
+finally, if you were to sit down tonight and try to write down the
+headlines for December 13, 2023, and you then actually read them on
+the day, you'll probably find that your predictions are nowhere near
+accurate.
+
+So we have no idea what the world's gonna look like, we have no idea
+what the future's gonna look like. Everything is uncertain. We're
+always dealing with this kind of uncertainty. And this is true for
+children entering school, but is equally true for adults in the middle
+of their careers right now.
+
+And when you think about how to deal with this uncertainty,
+I think you have three principal options. 
+
+One option is fatalism. So that's the idea that you have no agency in
+your life whatsoever. Everything that will happen will happen. You
+have no influence over it. Everything is controlled by some kind of
+outside force, but beyond your agency. That's one possibility.
+
+The second one is trying to apply control, which typically means
+planning. So the way that works, is you're trying to eliminate the
+uncertainty by thinking through all the eventualities, all the things
+that can possibly happen, and then develop a plan for each. So
+whatever happens, you're gonna have a plan and you know exactly what
+to do in what situation.
+
+And a third approach is one of creativity. That means that you trust
+in yourself and in the people around you to have the original ideas of
+value that will help you deal with whatever comes at you. So that
+means that you're going to be able to exploit opportunities and
+negotiate challenges and mitigate problems by having these original
+ideas that have value at the right time. And therefore, you'll want to
+nurture and build your tool set for developing such ideas.
+
+Now of these three options that you have, I think fatalism is just not
+a good one. I think fatalism is just a poor strategy for life. That's
+just not my kind of thing that I want to do.
+
+So that leaves the other two options. Now, if we think about control
+or the idea of reducing, or perhaps even eliminating this uncertainty
+by planning for everything, take a look at this. Suppose this is your
+life in the next few weeks or months. It doesn't really matter what
+granularity we're talking about. The time axis is from left to
+right. Okay, so as time progresses, we move from the left to the
+right. And of course there's going to be multiple pathways that you
+can take at multiple stages during that time period. Things that might
+happen but can happen either way, or decisions that you need to make
+and so on. And if we look at this very simplified view where we assume
+everything is just a binary choice, you can go one way or can go the
+other. You can make a decision one way or the other. We're completely
+leaving out of consideration that very often you have three choices or
+four choices.
+
+Then by the time you get to six of them, you going to have 64 possible
+courses of action, 64 possible pathways through this tree. And of
+course, you're planning for everything and deal with every
+eventuality. So what you gonna be doing is you're gonna have 64
+possible courses of action, 64 plans worked out, and you're going to
+discard 63 of them. And that's what's gonna happen, essentially,
+throughout your life. To make all these plans, plans upon plans upon
+plans for all eventualities. And then you got to discard most of
+them. That's exhausting. Now I'm not as therapist to psychologist or
+psychiatrist, but I think that is a fast track, VIP prime lottery
+ticket to burnout.
+
+Now compare that to a different approach where we dealing with
+creativity. Always saying, okay at every stage we're going to look at
+the options and then we gonna come up with the ideas to do what's
+best. Notice that it every stage here what you need to do is you
+just need to look one step back and one step ahead. Where do we just
+come from? Which way do we go and which are the options that we have
+now? And that is a much more manageable approach and a much more
+successful approach, I dare say, then to just plan everything.
+
+So if we want to rank these in order of suitability or in the order
+that we would like to recommend it as he is very clear that the
+creativity approach is far superior to the one that tries to control
+everything. And yet in business, what we typically favor is the
+control approach.
+
+Businesses basically have exactly the same challenges that we do as
+individuals.  There is no certainty in business. There is nothing that
+you can say for certain will apply to your business a year from now,
+or two years from now. 
+
+You might have a big opportunity. You might have a big customer that
+suddenly brings in a lot of revenue and lets you accelerate your
+growth plans.
+
+On the other hand, you might have to deal with suddenly skyrocketing
+interest rates and your financing falls apart. Or you might lose a key
+person on your team and you're not immediately able to replace that
+person adequately, and so that derails your product life cycle for
+some time.
+
+There's all these uncertainties happening to businesses all the time,
+and businesses should very much profit from fostering a creativity
+based approach. But what we typically get is businesses using an
+approach driven by control, and that happens to absurd ends,
+occasionally.
+
+So, for example, the idea that you ask an engineering manager, what is
+your team going to work on five quarters in the future? --- How are
+they supposed to know? Or asking a sales person or a sales manager to
+project the sales of a new product on a monthly basis for next
+September. --- Why?
+
+Why does management and business tend or skew so much toward the
+control approach when a creativity based approach would be so much
+more useful?
+
+I have a hypothesis for this and my hypothesis is that the reason why
+management works this way is that pretty much every manager has gone
+through a very specific institution. In fact, most of us, nearly all
+of us, managers or not, have gone through that institution.
+
+And that institution is school.
+
+Now. I can't speak to your personal school experience, but I
+can speak to mine. I can summarize my entire schooling, all of it in
+three sentences. Here ate three things that applied to all of my
+schooling.
+
+One, here is a set of rules. Two, apply these rules and you will
+succeed. Three, apply these rules perfectly and you will excel.
+
+Sound familiar? Thought so. 
+
+So I know for a fact that in creative writing, I did not write the
+best stories among my peers. But I understood rules and I was able to
+apply them. I understood spelling rules, I understood grammar rules, I
+understood punctuation rules, and I even understood and applied some
+of the style rules that we were given. And I knew that even if my
+writing was bland, as long as it was error free, I would make A's, or
+1s in the school system that I inhabited. Whereas some of my peers
+wrote much better stories, but they also made three grammar glitches
+and two spelling mistakes, and four misplaced commas, and they didn't
+quite adhere to the style rules that we were taught.  So they made C's
+or 3s even though their stories were better.
+
+And I was so good at applying rules that I became one of the category
+of rule champions in school. We call them straight-A students.
+Now if grades in school actually meant anything, a straight-A student
+should not exist. Never. Because making A's basically means
+you are an above average, excellent student in a specific subject, and
+it's absolutely impossible for a child in school to be an above
+average, excellent student in every subject --- in the natural
+sciences, in history, in writing, in maths, in art, in shop, in
+sports: you'd have to be above average, excellent, in all of them to
+be a straight-A student, but that's not how grades work in school.
+
+They actually don't give you any kind of feedback about
+whether you're actually really good at something, whether you're
+actually excelling at something. But what school does is it warps the
+idea of excellence, to mean excessive rule compliance. 
+
+I want to be very clear that there's nothing wrong with giving
+children (or pupils; we can include young adults in this) tools for
+solving problems and then rewarding them when they apply these tools
+(rules) correctly.
+
+But the real poison that school injects into our brains is this idea
+that the difference between doing something well and doing something
+excellently is simply the more perfect application of the
+rules. Again, this couldn't be further from the truth. What
+distinguishes something that's good from something that's excellent is
+that the excellent thing typically either results from applying the
+rules well, and the person then adding a personal, original, creative
+touch too. Or they bend the rules, or perhaps dispense with them
+altogether, and something great still emerges.
+
+The former, I'd say, is the reason why, for example, we find the music
+of Johann Sebastian Bach great, and the latter is why we find the
+music of Freddie Mercury great. But in school what we're being taught,
+is this: all you need to do is apply the rules more perfectly, and
+that will push you from being good, to being excellent.
+
+And this is what I would propose as an explanation for the phenomenon
+of management fads: KPI, OKR, NPS, SRE. All those things are
+effectively rulebooks that people seek to apply.
+
+Managers tend to love rulebooks. Directors, that is, managers of
+managers, tend to love managers who love rulebooks. Because as the idea
+goes, if you have a rulebook and you apply it very well, then you
+will succeed. And if you apply it perfectly, then you will excel.
+
+So as an example, let's say Scrum is not working in our engineering
+organization. What we therefore have to do is to apply the rules of
+Scrum more diligently, and then we will excel. Hell no, scrumbag, it
+doesn't work that way. The fact that Scrum is failing in our
+organization doesn't mean that we're not applying the rules of Scrum
+well enough. It means that the rules are shit, and applying them more
+diligently would actually do more damage, rather than improve
+anything.
+
+And of course, this brain poison also extends to the people devising
+these rulebooks in the first place.  Because obviously this doesn't
+work like the discovery of new laws of nature, like we do in
+experimental physics. In experimental physics, you come from a
+hypothesis that is based on the current state of theory. And then
+you figure out an experiment that might serve to disprove your
+hypothesis. And then you conduct the experiment. And if it disproves
+your hypothesis, then the experiment is a success, and you can discard
+the hypothesis and you go on to the next hypothesis and the next
+experiment.
+
+But of course, in business it doesn't work that way because you cannot
+build these experimental setups. It's obviously not an option to, say,
+try a new project management approach for a business-critical project
+and then say, oh great, that failed! We've run the company into the
+ground, we've bankrupted two suppliers and a hundred people have to
+find new jobs, but now we can start over and try the next method!
+Because that's incompatible with how our economy works, and it's also
+quite unethical if people's livelihoods are at stake.
+
+So what tends to happen in reality is that a certain group of people
+does things a certain way, and then they spectacularly succeed at some
+endeavour. And then somebody writes down on the things that they did
+in order to succeed --- from their perspective.  But in fact the only
+thing that they have actually observed is correlation. They did
+certain things *and* they succeeded. They didn't necessarily succeed
+*because* they did those things. They might have succeeded because
+there was very, very good chemistry between the people. They might
+have succeeded because there was a creative spark that drove them
+forward. They may have succeeded because there was some sort of
+fortunate event that helped them make a big leap. But what they end up
+doing is they write down something that *they believe* are the rules
+for success.
+
+And of course, if I'm the person originating this, and if I am myself
+conditioned to believe that rulebooks work and that that indeed
+rulebooks are the *only* thing that works, and that rulebooks are what
+we need in order to be successful rather than nurturing creativity or
+original ideas, then I am going to propagate these rules in such a way
+that I assert that these things in fact *cause* success and anyone
+else could replicate them. Not because I'm necessarily malicious or
+interested in fame, but just because I've got the same poison in my
+brain that convinces me that this is so.
+
+So, apart from reducing our dependence on rulebooks, what else can we
+do to foster creativity?  What else can we do to enable people to
+have the original ideas that have value that we want them to have?
+
+John Cleese has written an excellent book on creativity. And in it he
+asserts that the ability to let your mind wander and thereby become
+open to developing new ideas is a key element of the creative
+process. He calls this mental play. And this is by no means limited to
+music or literature or the arts; he lists several examples of mental
+playfulness leading to groundbreaking new ideas from the world of
+science, such as the discovery of benzene. Now, what Cleese says is
+that it's essential to be able to keep our mind in that state of
+playfulness for some time, because it takes a little while for new
+ideas to pop into our head.
+
+> The greatest killer of creativity is interruption. It pulls your
+> mind away from what you want to be thinking about.
+
+> — John Cleese, “Creativity: A Short and Cheerful Guide” (2020)
+
+Consider this in view of the fact that in the technology industry,
+interruption is *how many organizations operate.* As in, it's not even
+a problem that they are trying to negotiate; it is inherent to their
+fabric. Every organization that defaults to using chat for
+communication is effectively interrupt-driven. In terms of
+interruptions, a chat-driven organization is everything that's
+terrible about an open-plan office except scaled up, out, and
+magnified.
+
+If you are a manager, stop interrupting people. Let them think.
+
+Also, if you are a manager, this is the kind of person you want on
+your team:
+
+> I am out of ideas on this one. I will step back and do <other thing>
+> and come back to this tomorrow.
+>
+> --- My colleague Maari Tamm, in an issue tracker comment (2022)
+
+This is a person who has eminently understood how the human mind
+works. How many of you have had a good idea in the shower? You'll
+understand this. Stepping away and thinking about something else ---
+whether it's work-related or not --- is a productive thing to
+do. Enable people to do that. Encourage it, support it, and do it
+yourself.
+
+I can tell you that *every single idea* that I've had for this talk
+came to me on a walk or on a bike ride. Every one. I had not a single
+original idea for this at my desk.
