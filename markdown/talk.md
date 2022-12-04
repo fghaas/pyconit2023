@@ -349,4 +349,96 @@ yourself.
 
 I can tell you that *every single idea* that I've had for this talk
 came to me on a walk or on a bike ride. Every one. I had not a single
-original idea for this at my desk.
+original idea for this at my desk. I get ideas by getting out in the
+open air.
+
+Others may be getting ideas differently. In the strange no man's land
+between being awake and being asleep, just before dozing off (this was
+apparently true for Thomas Edison). Or maybe while they're just
+staring out the window. Or while they're in the bath or shower.
+
+Allowing your mind to let go for a bit can lead to creative
+breakthroughs in engineering, even in tricky problems that you
+normally perhaps wouldn't associate with creativity at all: [Jim
+Crocker](https://appel.nasa.gov/2010/09/20/jim-crocker-on-systems-engineering/)
+was the Ball Aerospace engineer who solved the problem of how exactly
+the [corrective
+optics](https://en.wikipedia.org/wiki/Corrective_Optics_Space_Telescope_Axial_Replacement)
+on the Hubble Space Telescope should be installed — obviously not a
+scenario that anyone accounted for in Hubble’s design.  The ingenious
+idea that ended up saving Hubble from being a multibillion dollar
+boondoggle [came to him in the
+shower](https://www.ball.com/aerospace/newsroom/features/genius-at-work).
+
+There's another problem in which contemporary offices are a hindrance
+to creativity. In offices like we had until about 20 years ago,
+we worked with maybe one other colleague in the room, and we had
+stretches of time where the other person was off running an errand in
+town or taking a meeting in a conference room. And you could close the
+door and put up a “do not disturb” sign and do some uninterrupted
+thinking.
+
+Around the year 2000, most of that started to change, dramatically.
+Open-plan offices, which of course were allegedly introduced to
+“facilitate cooperation,” eliminated any room for uninterrupted mental
+play at work. Emails replaced typed and printed memos, office workers
+transitioned from workstations to laptops. Pagers and cell phones
+started to buzz people at home. Around 2010 we progressed to smart
+phones, tablets and other portable devices that had the ability to
+ping us out of playful thought with an audible notification at any
+time of day. *Knowledge work became interrupt-driven* — a sentence
+that in itself should make anyone shudder that knows anything about
+knowledge work at all.
+
+And it’s no surprise that people who rose to corporate leadership
+after being imprinted by an interrupt-driven lifestyle — that is,
+people now in their 50s — think that such a thing is *normal,* and try
+to impress the same thing on their subordinates. That’s how you get to
+Slack-driven companies. That’s how you end up in a culture where
+people are proud of getting back to any email within 30 minutes (or
+less), and expecting the same from everyone. That’s how you end up
+with managers who take being signed into a chat (and thereby
+*constantly* listening for interruptions) as a measure of being
+“active”, so much so that they [end up tracking metrics for
+it](https://twitter.com/pleia2/status/1456629767743016966), and of
+course also [making it a
+target]({filename}meaningless-metrics-treacherous-targets.md) they
+call “engagement” or some other abomination.
+
+Organizations that do that are at risk of constantly shutting down
+creativity, problem-solving, and innovation. What they’re good for is
+developing efficient cookie-cutter techniques for optimizing solutions
+for *yesterday’s* issues. What we need *today* — in a global pandemic,
+and in the roiling climate crisis that’ll make this pandemic look like
+a walk in the park — is people and organizations equipped with the
+mindset for the issues of *tomorrow.* And a first imperative for
+making that happen is to **let people think.**
+
+So is everything all doom and gloom? I’d say it isn’t, and there are
+indeed some things that make me hopeful. Some of those are related to
+a changed approach to creativity in education, some, to a changing
+approach to work.
+
+For example, in my country as of a few years ago it is indeed such
+that creativity and originality are accorded at least *some* merit in
+marking and grading standards. And this is at the secondary school
+level, traditionally one of the most rigid and unchanging branches of
+education where I live. Much more still is happening at the primary
+and preschool level, where I see *much* more emphasis on thinking,
+creative play, and innovation in my younger kids’ education than I did
+in my older ones’.
+
+And then, there’s the big push towards asynchronous distributed work —
+where obviously the *asynchronous* part is the bit that matters. Sure,
+[companies suffering from *offissification*]({filename}make-my-company-distributed.md)
+still exist, but for a while, [so did
+dodos](https://en.wikipedia.org/wiki/Dodo). But an ever-increasing
+share of humanity is beginning to understand what it’s like when
+you’re no longer shackled to seventeen Slack channels you constantly
+need to watch, when you can take a walk in the middle of the day
+because you know it’s OK to push something off for an hour to clear
+your head and come up with an idea, and when instead of spending an
+hour in a meeting [you can spend 5 minutes reading a memo and use the
+other 55 minutes for
+thinking]({filename}this-meeting-should-have-been-an-email.md).  And
+that’s where things get interesting.
