@@ -1,0 +1,25 @@
+digraph unix {
+    fontname="Helvetica,Arial,sans-serif"
+    node [fontname="Helvetica,Arial,sans-serif"]
+    edge [fontname="Helvetica,Arial,sans-serif"]
+    node [color=lightblue2, style=filled];
+    rankdir="LR";
+    ratio=0.5625;
+    splines=true;
+    A[fillcolor=red];
+    A -> {B C};
+    B[fillcolor=red];
+    B -> {D E};
+    C;
+    D;
+    E[fillcolor=red];
+    E -> {J K};
+    J;
+    K[fillcolor=red];
+    K -> {V W};
+    V[fillcolor=red];
+    V -> {AR AS};
+    W;
+    AR;
+    AS[fillcolor=red];
+}
