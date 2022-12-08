@@ -22,6 +22,7 @@ could be further from the truth. Both of those things could not be
 further from the truth.
 
 
+# Creativity definition <!-- .element class="hidden" -->
 > “Creativity is the process of having original ideas that have value.”
 
 — Sir Ken Robinson
@@ -34,10 +35,14 @@ of education reform in the last twenty to thirty years in the UK and
 in the U.S.
 
 
-![Sir Ken Robinson, speaking in 2009 at the Creative Company
- Conference, Amsterdam, the Netherlands.](https://upload.wikimedia.org/wikipedia/commons/a/a1/Sir_Ken_Robinson_%28cropped%29.jpg)
+<!-- .slide: data-background-image="images/Sir_Ken_Robinson.jpg" data-background-size="contain" -->
+# Sir Ken Robinson <!-- .element class="hidden" -->
 
-<!-- Note -->
+<!-- Note --> 
+Photo: [Sir Ken Robinson, speaking in 2009 at the Creative Company
+Conference, Amsterdam, the
+Netherlands](https://commons.wikimedia.org/wiki/File:Sir_Ken_Robinson_(cropped).jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en).
+
 And Sir Ken frequently made the case that schools, or education in
 general, doesn't do enough for creativity. And he always championed
 the value of creativity in education. And he was always happy to point
@@ -91,12 +96,14 @@ And when you think about how to deal with this uncertainty,
 I think you have three principal options. 
 
 
-# Fatalism, Control, Creativity <!-- .element class="hidden" -->
-Fatalism <!-- .element class="fragment" -->
+### How we can deal with uncertainty <!-- .element class="hidden" -->
+How can we deal with uncertainty?
 
-Control <!-- .element class="fragment" -->
+*Fatalism* <!-- .element class="fragment" -->
 
-Creativity <!-- .element class="fragment" -->
+*Control* <!-- .element class="fragment" -->
+
+*Creativity* <!-- .element class="fragment" -->
 
 <!-- Note -->
 One option is fatalism. So that's the idea that you have no agency in
@@ -363,10 +370,6 @@ else could replicate them. Not because I'm necessarily malicious or
 interested in fame, but just because I've got the same poison in my
 brain that convinces me that this is so.
 
-
-# Fostering creativity  <!-- .element class="hidden" -->
-
-<!-- Note -->
 So, apart from reducing our dependence on rulebooks, what else can we
 do to foster creativity?  What else can we do to enable people to
 have the original ideas that have value that we want them to have?
@@ -388,6 +391,7 @@ playfulness for some time, because it takes a little while for new
 ideas to pop into our head.
 
 
+# John Cleese's quote <!-- .element class="hidden" -->
 > “The greatest killer of creativity is interruption. It pulls your
 > mind away from what you want to be thinking about.”
 
@@ -410,6 +414,7 @@ Also, if you are a manager, this is the kind of person you want on
 your team:
 
 
+# Maari's quote <!-- .element class="hidden" -->
 > “I am out of ideas on this one. I will step back and do &lt;other thing&gt;
 > and come back to this tomorrow.”
 
@@ -433,6 +438,15 @@ Others may be getting ideas differently. In the strange no man's land
 between being awake and being asleep, just before dozing off (this was
 apparently true for Thomas Edison). Or maybe while they're just
 staring out the window. Or while they're in the bath or shower.
+
+
+<!-- .slide: data-background-image="https://live.staticflickr.com/4327/36025453856_9283dd9c11_k_d.jpg" data-background-size="contain" -->
+# Jim Crocker <!-- .element class="hidden" -->
+
+<!-- Note -->
+Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, used
+under [NASA Media Usage
+Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html).
 
 Allowing your mind to let go for a bit can lead to creative
 breakthroughs in engineering, even in tricky problems that you
@@ -467,6 +481,12 @@ time of day. *Knowledge work became interrupt-driven* — a sentence
 that in itself should make anyone shudder that knows anything about
 knowledge work at all.
 
+
+# Interrupt-driven knowledge work
+
+(These words should strike terror in your heart.)
+
+<!-- Note -->
 And it’s no surprise that people who rose to corporate leadership
 after being imprinted by an interrupt-driven lifestyle — that is,
 people now in their 50s — think that such a thing is *normal,* and try
@@ -491,6 +511,15 @@ a walk in the park — is people and organizations equipped with the
 mindset for the issues of *tomorrow.* And a first imperative for
 making that happen is to **let people think.**
 
+
+# Let people think <!-- .element class="hidden" -->
+Drop useless meetings.
+
+Curb interruptions.
+
+**Let people think.**
+
+<!-- Note -->
 So is everything all doom and gloom? I’d say it isn’t, and there are
 indeed some things that make me hopeful. Some of those are related to
 a changed approach to creativity in education, some, to a changing
