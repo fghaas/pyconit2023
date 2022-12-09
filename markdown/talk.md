@@ -21,9 +21,11 @@ we'll soon see.
 # Sir Ken Robinson <!-- .element class="hidden" -->
 
 <!-- Note --> 
-Photo: [Sir Ken Robinson, speaking in 2009 at the Creative Company
-Conference, Amsterdam, the
-Netherlands](https://commons.wikimedia.org/wiki/File:Sir_Ken_Robinson_(cropped).jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en).
+
+Photo:
+<https://commons.wikimedia.org/wiki/File:Sir_Ken_Robinson_(cropped).jpg>,
+by Sebastiaan ter Burg, [CC BY-SA
+2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en).
 
 And Sir Ken frequently made the case that schools, or education in
 general, doesn't do enough for creativity. And he always championed
@@ -444,8 +446,8 @@ staring out the window. Or while they're in the bath or shower.
 # Jim Crocker <!-- .element class="hidden" -->
 
 <!-- Note -->
-Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, used
-under [NASA Media Usage
+Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, by
+NASA/Joel Kowsky, used under [NASA Media Usage
 Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html).
 
 Allowing your mind to let go for a bit can lead to creative
@@ -517,6 +519,11 @@ making that happen is to **let people think.**
 # There's hope! <!-- .element class="hidden" -->
 
 <!-- Note -->
+Photo:
+<https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg>,
+by Eric Rolph, [CC BY-SA
+2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
 So is everything all doom and gloom? I’d say it isn’t, and there are
 indeed some things that make me hopeful. Some of those are related to
 a changed approach to creativity in education, some, to a changing
