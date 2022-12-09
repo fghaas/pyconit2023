@@ -1,31 +1,8 @@
-# Opening <!-- .element class="hidden" -->
-
-<!-- Note -->
-Yes, I know I'm the person between you and your drinks. I do
-acknowledge that. And I also understand that I might be the person
-between you and your hummus. Which in this country is probably even
-worse. And then, so you might be thinking, what on earth is this guy
-talking about? And why is he here? This is, after all, a technology
-conference. And not only that, it's a DevOps meeting. So that means
-that we're all about incrementally improving things, gradually
-changing and reimplementing things without breaking them. Where's the
-room for creativity in that?
-
-And I'll forgive you for thinking that, because there are two very
-common misconceptions about creativity. They're both very wrong, but
-they're very, very common. The one misconception is that a creativity
-is somehow the domain of the arts, that it happens in painting, music,
-drama, dance, fiction, poetry, etc. But nowhere else. And the second
-misconception is that creativity happens in big leaps, as in Mozart
-writing a new Symphony or or Stephen King writing a new novel. Nothing
-could be further from the truth. Both of those things could not be
-further from the truth.
-
-
+<!-- .slide: data-timing="30" -->
 # Creativity definition <!-- .element class="hidden" -->
 > “Creativity is the process of having original ideas that have value.”
 
-— Sir Ken Robinson
+— Sir Ken Robinson <!-- .element class="fragment" -->
 
 <!-- Note -->
 Creativity is "the process of having original ideas that have
@@ -34,8 +11,13 @@ comes from Sir Ken Robinson, who was one of the most eminent advocates
 of education reform in the last twenty to thirty years in the UK and
 in the U.S.
 
+And it's obvious that this has very broad applicability well beyond
+the arts: problem solving, optimization, innovation all require
+creativity. Practically *everything* benefits from creativity, as
+we'll soon see.
 
-<!-- .slide: data-background-image="images/Sir_Ken_Robinson.jpg" data-background-size="contain" -->
+
+<!-- .slide: data-background-image="images/Sir_Ken_Robinson.jpg" data-background-size="contain" data-timing="100" -->
 # Sir Ken Robinson <!-- .element class="hidden" -->
 
 <!-- Note --> 
@@ -74,6 +56,12 @@ meant to prepare the child for the world fifteen to twenty years in
 the future. When we have no idea what the world's gonna look like six
 months from now, or a year from now.
 
+
+# A quick thought experiment <!-- .element class="hidden" -->
+
+A quick thought experiment...
+
+<!-- Note --> 
 If we want to do a quick thought experiment, assume that a person from
 today travels into the past, travels through time, into the past,
 meets you a year ago and then reads you the headlines of today's
@@ -112,11 +100,11 @@ have no influence over it. Everything is controlled by some kind of
 outside force, but beyond your agency. That's one possibility.
 
 The second one is trying to apply control, which typically means
-planning. So the way that works, is you're trying to eliminate the
-uncertainty by thinking through all the eventualities, all the things
-that can possibly happen, and then develop a plan for each. So
-whatever happens, you're gonna have a plan and you know exactly what
-to do in what situation.
+planning and rules. So the way that works, is you're trying to
+eliminate the uncertainty by thinking through all the eventualities,
+all the things that can possibly happen, and then apply certain rules
+to come up with a plan for each. So whatever happens, you're gonna
+have a plan and you know exactly what to do in what situation.
 
 And a third approach is one of creativity. That means that you trust
 in yourself and in the people around you to have the original ideas of
@@ -219,11 +207,16 @@ approach driven by control, and that happens to absurd ends,
 occasionally.
 
 So, for example, the idea that you ask an engineering manager, what is
-your team going to work on five quarters in the future? --- How are
+your team going to work on five quarters in the future? — How are
 they supposed to know? Or asking a sales person or a sales manager to
 project the sales of a new product on a monthly basis for next
-September. --- Why?
+September. — Why?
 
+
+# Why does management skew towards control? <!-- .element class="hidden" -->
+Why does management skew towards control?
+
+<!-- Note -->
 Why does management and business tend or skew so much toward the
 control approach when a creativity based approach would be so much
 more useful?
@@ -241,6 +234,7 @@ three sentences. Here ate three things that applied to all of my
 schooling.
 
 
+<!-- .slide: data-timing="120" -->
 # School rules <!-- .element class="hidden" -->
 1. Here is a set of rules. <!-- .element class="fragment" -->
 2. Apply these rules and you will succeed. <!-- .element class="fragment" -->
@@ -275,8 +269,13 @@ be a straight-A student, but that's not how grades work in school.
 They actually don't give you any kind of feedback about
 whether you're actually really good at something, whether you're
 actually excelling at something. But what school does is it warps the
-idea of excellence, to mean excessive rule compliance. 
+idea of excellence, to mean industrious compliance. 
 
+
+# Excellence in school == industrious compliance <!-- .element class="hidden" -->
+Excellence in school == industrious compliance
+
+<!-- Note -->
 I want to be very clear that there's nothing wrong with giving
 children (or pupils; we can include young adults in this) tools for
 solving problems and then rewarding them when they apply these tools
@@ -322,6 +321,7 @@ diligently would actually do more damage, rather than improve
 anything.
 
 
+<!-- .slide: data-timing="180" -->
 # How do people write rulebooks?  <!-- .element class="hidden" -->
 How do people write rulebooks?
 
@@ -396,7 +396,7 @@ ideas to pop into our head.
 > mind away from what you want to be thinking about.”
 
 — John Cleese,  
-“Creativity: A Short and Cheerful Guide” (2020)
+“Creativity: A Short and Cheerful Guide” (2020) <!-- .element class="fragment" -->
 
 <!-- Note -->
 Consider this in view of the fact that in the technology industry,
@@ -419,7 +419,7 @@ your team:
 > and come back to this tomorrow.”
 
 — My colleague Maari Tamm,  
-in an issue tracker comment (2022)
+in an issue tracker comment (2022) <!-- .element class="fragment" -->
 
 <!-- Note -->
 This is a person who has eminently understood how the human mind
@@ -459,7 +459,7 @@ on the Hubble Space Telescope should be installed — obviously not a
 scenario that anyone accounted for in Hubble’s design.  The ingenious
 idea that ended up saving Hubble from being a multibillion dollar
 boondoggle [came to him in the
-shower](https://www.ball.com/aerospace/newsroom/features/genius-at-work).
+shower](https://www.wherewhywhen.com/the-hubble-telescope-costar-fix-jim-crocker/).
 
 There's another problem in which contemporary offices are a hindrance
 to creativity. In offices like we had until about 20 years ago,
@@ -482,25 +482,26 @@ that in itself should make anyone shudder that knows anything about
 knowledge work at all.
 
 
-# Interrupt-driven knowledge work
+# Interrupt-driven knowledge work <!-- .element class="hidden" -->
 
-(These words should strike terror in your heart.)
+Interrupt-driven knowledge work
 
-<!-- Note -->
-And it’s no surprise that people who rose to corporate leadership
-after being imprinted by an interrupt-driven lifestyle — that is,
-people now in their 50s — think that such a thing is *normal,* and try
-to impress the same thing on their subordinates. That’s how you get to
-Slack-driven companies. That’s how you end up in a culture where
-people are proud of getting back to any email within 30 minutes (or
-less), and expecting the same from everyone. That’s how you end up
-with managers who take being signed into a chat (and thereby
-*constantly* listening for interruptions) as a measure of being
-“active”, so much so that they [end up tracking metrics for
+(These words should strike terror in your heart.) <!-- .element class="fragment" -->
+
+<!-- Note --> And it’s no surprise that people who rose to corporate
+leadership after being imprinted by an interrupt-driven lifestyle —
+that is, people now in their 50s — think that such a thing is
+*normal,* and try to impress the same thing on their
+subordinates. That’s how you get to Slack-driven companies. That’s how
+you end up in a culture where people are proud of getting back to any
+email within 30 minutes (or less), and expecting the same from
+everyone. That’s how you end up with managers who take being signed
+into a chat (and thereby *constantly* listening for interruptions) as
+a measure of being “active”, so much so that they [end up tracking
+metrics for
 it](https://twitter.com/pleia2/status/1456629767743016966), and of
-course also [making it a
-target]({filename}meaningless-metrics-treacherous-targets.md) they
-call “engagement” or some other abomination.
+course also making it a target they call “engagement” or some other
+abomination.
 
 Organizations that do that are at risk of constantly shutting down
 creativity, problem-solving, and innovation. What they’re good for is
@@ -512,12 +513,8 @@ mindset for the issues of *tomorrow.* And a first imperative for
 making that happen is to **let people think.**
 
 
-# Let people think <!-- .element class="hidden" -->
-Drop useless meetings.
-
-Curb interruptions.
-
-**Let people think.**
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" data-background-size="cover" -->
+# There's hope! <!-- .element class="hidden" -->
 
 <!-- Note -->
 So is everything all doom and gloom? I’d say it isn’t, and there are
@@ -536,15 +533,28 @@ in my older ones’.
 
 And then, there’s the big push towards asynchronous distributed work —
 where obviously the *asynchronous* part is the bit that matters. Sure,
-[companies suffering from *offissification*]({filename}make-my-company-distributed.md)
-still exist, but for a while, [so did
-dodos](https://en.wikipedia.org/wiki/Dodo). But an ever-increasing
-share of humanity is beginning to understand what it’s like when
-you’re no longer shackled to seventeen Slack channels you constantly
-need to watch, when you can take a walk in the middle of the day
-because you know it’s OK to push something off for an hour to clear
-your head and come up with an idea, and when instead of spending an
-hour in a meeting [you can spend 5 minutes reading a memo and use the
-other 55 minutes for
-thinking]({filename}this-meeting-should-have-been-an-email.md).  And
-that’s where things get interesting.
+companies suffering from *offissification* still exist, but for a
+while, [so did dodos](https://en.wikipedia.org/wiki/Dodo). But an
+ever-increasing share of humanity is beginning to understand what it’s
+like when you’re no longer shackled to seventeen Slack channels you
+constantly need to watch, when you can take a walk in the middle of
+the day because you know it’s OK to push something off for an hour to
+clear your head and come up with an idea, and when instead of spending
+an hour in a meeting you can spend 5 minutes reading a memo and use
+the other 55 minutes for thinking. And that’s where things get
+interesting.
+
+
+# Let people think <!-- .element class="hidden" -->
+Drop useless meetings.
+
+Curb interruptions.
+
+**Let people think.**
+
+<!-- Note -->
+So cut those standups.
+
+Default to something other than chat.
+
+Let people think.
