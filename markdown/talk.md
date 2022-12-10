@@ -59,9 +59,7 @@ the future. When we have no idea what the world's gonna look like six
 months from now, or a year from now.
 
 
-# A quick thought experiment <!-- .element class="hidden" -->
-
-A quick thought experiment...
+### A quick thought experiment...
 
 <!-- Note --> 
 If we want to do a quick thought experiment, assume that a person from
@@ -86,8 +84,7 @@ And when you think about how to deal with this uncertainty,
 I think you have three principal options. 
 
 
-### How we can deal with uncertainty <!-- .element class="hidden" -->
-How can we deal with uncertainty?
+### How we can deal with uncertainty?
 
 *Fatalism* <!-- .element class="fragment" -->
 
@@ -215,8 +212,7 @@ project the sales of a new product on a monthly basis for next
 September. — Why?
 
 
-# Why does management skew towards control? <!-- .element class="hidden" -->
-Why does management skew towards control?
+### Why does management skew towards control?
 
 <!-- Note -->
 Why does management and business tend or skew so much toward the
@@ -237,7 +233,8 @@ schooling.
 
 
 <!-- .slide: data-timing="120" -->
-# School rules <!-- .element class="hidden" -->
+### What I learned in school:
+
 1. Here is a set of rules. <!-- .element class="fragment" -->
 2. Apply these rules and you will succeed. <!-- .element class="fragment" -->
 3. Apply the rules perfectly and you will excel. <!-- .element class="fragment" -->
@@ -274,8 +271,9 @@ actually excelling at something. But what school does is it warps the
 idea of excellence, to mean industrious compliance. 
 
 
-# Excellence in school == industrious compliance <!-- .element class="hidden" -->
-Excellence in school == industrious compliance
+### Excellence in school
+
+... is equivalent to meticulous compliance. <!-- .element class="fragment" -->
 
 <!-- Note -->
 I want to be very clear that there's nothing wrong with giving
@@ -300,8 +298,7 @@ is this: all you need to do is apply the rules more perfectly, and
 that will push you from being good, to being excellent.
 
 
-# Managers love rulebooks  <!-- .element class="hidden" -->
-Managers love rulebooks.
+### Managers love rulebooks.
 
 <!-- Note -->
 And this is what I would propose as an explanation for the phenomenon
@@ -324,8 +321,7 @@ anything.
 
 
 <!-- .slide: data-timing="180" -->
-# How do people write rulebooks?  <!-- .element class="hidden" -->
-How do people write rulebooks?
+### How do people write rulebooks?
 
 <!-- Note -->
 And of course, this brain poison also extends to the people devising
@@ -484,9 +480,7 @@ that in itself should make anyone shudder that knows anything about
 knowledge work at all.
 
 
-# Interrupt-driven knowledge work <!-- .element class="hidden" -->
-
-Interrupt-driven knowledge work
+### Interrupt-driven knowledge work
 
 (These words should strike terror in your heart.) <!-- .element class="fragment" -->
 
