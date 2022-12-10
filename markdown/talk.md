@@ -1,11 +1,14 @@
-<!-- .slide: data-timing="30" data-background-image="images/qrcode.svg" data-background-size="contain" -->
+<!-- .slide: data-timing="60" data-background-image="images/qrcode.svg" data-background-size="contain" -->
 # QR code <!-- .element class="hidden" -->
 
 <!-- Note -->
+Please feel free to scan this QR code if you'd like to follow along
+with my slides.
+
 Yes, I know I'm the person between you and your drinks. I do
 acknowledge that. And I also understand that I might be the person
 between you and your hummus. Which in this country is probably even
-worse. And then, so you might be thinking, what on earth is this guy
+worse. And then, you might also be thinking, what on earth is this guy
 talking about? And why is he here? This is, after all, a technology
 conference. And not only that, it's a DevOps meeting. So that means
 that we're all about incrementally improving things, gradually
@@ -18,7 +21,7 @@ they're very, very common. The one misconception is that a creativity
 is somehow the domain of the arts, that it happens in painting, music,
 drama, dance, fiction, poetry, etc. But nowhere else. And the second
 misconception is that creativity happens in big leaps, as in Mozart
-writing a new Symphony or or Stephen King writing a new novel. Nothing
+writing a new Symphony or Zaha Hadid designing a new building. Nothing
 could be further from the truth. Both of those things could not be
 further from the truth.
 
@@ -261,7 +264,7 @@ And that institution is school.
 
 Now. I can't speak to your personal school experience, but I
 can speak to mine. I can summarize my entire schooling, all of it in
-three sentences. Here ate three things that applied to all of my
+three sentences. Here are three things that applied to all of my
 schooling.
 
 
@@ -358,7 +361,7 @@ anything.
 
 <!-- Note -->
 And of course, this brain poison also extends to the people devising
-these rulebooks in the first place.  Because obviously this doesn't
+these rulebooks in the first place. Because obviously this doesn't
 work like the discovery of new laws of nature, like we do in
 experimental physics. In experimental physics, you come from a
 hypothesis that is based on the current state of theory. And then
@@ -503,7 +506,7 @@ boondoggle [came to him in the
 shower](https://www.wherewhywhen.com/the-hubble-telescope-costar-fix-jim-crocker/).
 
 There's another problem in which contemporary offices are a hindrance
-to creativity. In offices like we had until about 20 years ago,
+to creativity. In offices like the one Jim Crocker had in the 90s,
 we worked with maybe one other colleague in the room, and we had
 stretches of time where the other person was off running an errand in
 town or taking a meeting in a conference room. And you could close the
