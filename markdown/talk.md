@@ -42,43 +42,45 @@ general expectation that we have of the education system. Turn out
 people who are well-developed, valuable members of society. 
 
 And now in most countries, children enter the education system when
-they're somewhere between three and six years old, and in most
+they're somewhere between 3 and 6 years old, and in most
 countries they exit the education system when they're either in their
 late teens or in their early twenties. We'll leave out academia for a
 bit because of course those people, people who go on into academic
 careers, they stay in educational institutions for longer because they
 themselves then go into teaching and research.
 
-But in most countries, young adults exit the education system when
-they're in their late teens or early twenties. So that means that this
-spans a period of fifteen to twenty years.
+But, again, in most countries, *most* young adults exit the education
+system when they're in their late teens or early twenties. Having
+entered that system at age 3 to 6, that means that that spans a period
+of of 15 to 20 years.
 
 So the education that a child enters at a certain age is basically
-meant to prepare the child for the world fifteen to twenty years in
-the future. When we have no idea what the world's gonna look like six
+meant to prepare the child for the world 15 to 20 years in
+the future. When we have no idea what the world's gonna look like 6
 months from now, or a year from now.
 
 
 ### A quick thought experiment...
 
-<!-- Note --> 
+<!-- Note -->
 If we want to do a quick thought experiment, assume that a person from
-today travels into the past, travels through time, into the past,
-meets you a year ago and then reads you the headlines of today's
-news. You would probably dismiss that person as a lunatic. Likewise,
-if there was a person visiting from the future today from a year in
-the future, coming back to today and reading you the headlines of that
-day, you'd probably dismiss that person as lunatic as well. And
-finally, if you were to sit down tonight and try to write down the
-headlines for December 13, 2023, and you then actually read them on
-the day, you'll probably find that your predictions are nowhere near
-accurate.
+today travels into the past, meets you a year ago and then reads you
+the headlines of today's news. You would probably dismiss that person
+as a lunatic.
+
+Likewise, if there was a person visiting from the future today from a
+year in the future, coming back to today and reading you the headlines
+of that day, you'd probably dismiss that person as lunatic as
+well. And finally, if you were to sit down tonight and try to write
+down the headlines for December 14, 2023, and you then actually read
+them on the day, you'll probably find that your predictions are
+nowhere near accurate.
 
 So we have no idea what the world's gonna look like, we have no idea
 what the future's gonna look like. Everything is uncertain. We're
-always dealing with this kind of uncertainty. And this is true for
-children entering school, but is equally true for adults in the middle
-of their careers right now.
+always dealing with this kind of uncertainty. And this is as true for
+children entering school, as it is for adults in the middle of their
+careers right now.
 
 And when you think about how to deal with this uncertainty,
 I think you have three principal options. 
@@ -117,23 +119,24 @@ Now of these three options that you have, I think fatalism is just not
 a good one. I think fatalism is just a poor strategy for life. That's
 just not my kind of thing that I want to do.
 
+So that leaves the other two options.
+
 
 # 5 decisions in a row <!-- .element class="hidden" -->
 ![A graph visualizing a series of 5 binary decisions taken in a row](images/decisionseries.svg)
 
 <!-- Note -->
-So that leaves the other two options. Now, if we think about control
-or the idea of reducing, or perhaps even eliminating this uncertainty
-by planning for everything, take a look at this. Suppose this was your
-life in the past few weeks or months. It doesn't really matter what
-granularity we're talking about. The time axis is from left to
-right. Okay, so as time progressed, we moved from the left to the
-right. And of course there were several paths that you could have
-taken, at multiple stages during that time period. And if we look at
-this very simplified view where we assume everything is just a binary
-choice, you can go one way or can go the other. You can make a
-decision one way or the other. We're completely leaving out of
-consideration that very often you have three choices or four choices.
+Now, if we think about control or the idea of reducing, or perhaps
+even eliminating this uncertainty by planning for everything, take a
+look at this. Suppose this was your life in the past few weeks or
+months. It doesn't really matter what granularity we're talking
+about. The time axis is from left to right. So as time progressed, we
+moved from the left to the right. And of course there were several
+paths that you could have taken, at multiple stages during that time
+period. And if we look at this very simplified view where we assume
+everything is just a binary choice, you can go one way or can go the
+other. We're completely leaving out of consideration that very often
+you have three choices or four choices.
 
 So it looks quite simple in this graph, no? Over the course of time,
 maybe a few months, we took 5 decisions in a row, and we ended up
@@ -152,15 +155,16 @@ looks like is this:
 ![A graph visualizing a series of 5 binary decisions, in the context of a 2⁵=32 options decision tree](images/decisiontree.svg)
 
 <!-- Note -->
-With 5 decisions to make, you're going to have 32 possible
-courses of action, 32 possible pathways through this tree. And of
-course, you're planning for everything and deal with every
-eventuality. So what you gonna be doing is you're gonna have 32
-possible courses of action, 32 plans worked out, and you're going to
-discard 31 of them. And that's what's gonna happen, essentially,
-throughout your life. To make all these plans, plans upon plans upon
-plans for all eventualities. And then you got to discard most of
-them. That's exhausting. Now I'm not as therapist to psychologist or
+With 5 decisions to make, you're going to have 32 possible courses of
+action, 32 possible pathways through this tree. And of course, you're
+planning for everything and deal with every eventuality. So you'll
+have 32 possible courses of action, 32 plans worked out, and you're
+going to discard 31 of them. And that's what's gonna happen,
+essentially, throughout your life. To make all these plans, plans upon
+plans upon plans for all eventualities. And then you got to discard
+most of them.
+
+That's exhausting. Now I'm not as therapist to psychologist or
 psychiatrist, but I think that is a fast track, VIP prime lottery
 ticket to burnout.
 
@@ -170,7 +174,7 @@ ticket to burnout.
 
 <!-- Note -->
 Now compare that to a different approach where we dealing with
-creativity. Always saying, okay at every stage we're going to look at
+creativity. Always saying, at every stage we're going to look at
 the options and then we gonna come up with the ideas to do what's
 best. Notice that it every stage here what you need to do is you
 just need to look one step back and one step ahead. Where do we just
@@ -184,6 +188,10 @@ creativity approach is far superior to the one that tries to control
 everything. And yet in business, what we typically favor is the
 control approach.
 
+
+### Businesses are as uncertain as life.
+
+<!-- Note -->
 Businesses basically have exactly the same challenges that we do as
 individuals.  There is no certainty in business. There is nothing that
 you can say for certain will apply to your business a year from now,
@@ -276,7 +284,7 @@ idea of excellence, to mean industrious compliance.
 ... is equivalent to meticulous compliance. <!-- .element class="fragment" -->
 
 <!-- Note -->
-I want to be very clear that there's nothing wrong with giving
+Now, I want to be very clear that there's nothing wrong with giving
 children (or pupils; we can include young adults in this) tools for
 solving problems and then rewarding them when they apply these tools
 (rules) correctly.
@@ -368,6 +376,17 @@ else could replicate them. Not because I'm necessarily malicious or
 interested in fame, but just because I've got the same poison in my
 brain that convinces me that this is so.
 
+Ditch your rulebooks. Or if you don't ditch them, at least don't obey
+them blindly. Contrary to what school taught us, no good results await
+just from meticulously following the rules.
+
+
+<!-- .slide: data-timing="15" -->
+OK. Don't blindly obey rulebooks.
+
+### What else?
+
+<!-- Note -->
 So, apart from reducing our dependence on rulebooks, what else can we
 do to foster creativity?  What else can we do to enable people to
 have the original ideas that have value that we want them to have?
@@ -380,13 +399,14 @@ have the original ideas that have value that we want them to have?
 John Cleese has written an excellent book on creativity. And in it he
 asserts that the ability to let your mind wander and thereby become
 open to developing new ideas is a key element of the creative
-process. He calls this mental play. And this is by no means limited to
-music or literature or the arts; he lists several examples of mental
-playfulness leading to groundbreaking new ideas from the world of
-science, such as the discovery of benzene. Now, what Cleese says is
-that it's essential to be able to keep our mind in that state of
-playfulness for some time, because it takes a little while for new
-ideas to pop into our head.
+process. He calls this mental play.
+
+And this is by no means limited to music or literature or the arts; he
+lists several examples of mental playfulness leading to groundbreaking
+new ideas from the world of science, such as the discovery of
+benzene. Now, what Cleese says is that it's essential to be able to
+keep our mind in that state of playfulness for some time, because it
+takes a little while for new ideas to pop into our head.
 
 
 # John Cleese's quote <!-- .element class="hidden" -->
@@ -401,10 +421,8 @@ Consider this in view of the fact that in the technology industry,
 interruption is *how many organizations operate.* As in, it's not even
 a problem that they are trying to negotiate; it is inherent to their
 fabric. Every organization that defaults to using chat for
-communication is effectively interrupt-driven. In terms of
-interruptions, a chat-driven organization is everything that's
-terrible about an open-plan office except scaled up, out, and
-magnified.
+communication is effectively interrupt-driven. So is every
+organization that has ad-hoc meetings for everything.
 
 If you are a manager, stop interrupting people. Let them think.
 
