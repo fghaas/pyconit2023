@@ -1,5 +1,5 @@
 <!-- .slide: data-timing="60" data-background-image="images/qrcode.svg" data-background-size="contain" -->
-# QR code <!-- .element class="hidden" -->
+### QR code <!-- .element class="hidden" -->
 
 <!-- Note -->
 Please feel free to scan this QR code if you'd like to follow along
@@ -27,7 +27,7 @@ further from the truth.
 
 
 <!-- .slide: data-timing="30" -->
-# Creativity definition <!-- .element class="hidden" -->
+### Creativity definition <!-- .element class="hidden" -->
 > “Creativity is the process of having original ideas that have value.”
 
 — Sir Ken Robinson <!-- .element class="fragment" -->
@@ -46,7 +46,7 @@ we'll soon see.
 
 
 <!-- .slide: data-background-image="images/Sir_Ken_Robinson.jpg" data-background-size="contain" data-timing="100" -->
-# Sir Ken Robinson <!-- .element class="hidden" -->
+### Sir Ken Robinson <!-- .element class="hidden" -->
 
 <!-- Note --> 
 
@@ -149,7 +149,7 @@ just not my kind of thing that I want to do.
 So that leaves the other two options.
 
 
-# 5 decisions in a row <!-- .element class="hidden" -->
+### 5 decisions in a row <!-- .element class="hidden" -->
 ![A graph visualizing a series of 5 binary decisions taken in a row](images/decisionseries.svg)
 
 <!-- Note -->
@@ -178,7 +178,7 @@ involving just 5 decisions in a row, what your decision tree actually
 looks like is this:
 
 
-# 5 decisions in a tree <!-- .element class="hidden" -->
+### 5 decisions in a tree <!-- .element class="hidden" -->
 ![A graph visualizing a series of 5 binary decisions, in the context of a 2⁵=32 options decision tree](images/decisiontree.svg)
 
 <!-- Note -->
@@ -196,7 +196,7 @@ psychiatrist, but I think that is a fast track, VIP prime lottery
 ticket to burnout.
 
 
-# 5 creative decisions <!-- .element class="hidden" -->
+### 5 creative decisions <!-- .element class="hidden" -->
 ![A graph visualizing one binary decision based on a current situation](images/creativedecision.svg)
 
 <!-- Note -->
@@ -419,7 +419,7 @@ have the original ideas that have value that we want them to have?
 
 
 <!-- .slide: data-background-image="https://books.google.at/books/publisher/content?id=fUjNDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U0eH1mTCjH0dza4G8wSmpLUafeqrw&w=685" data-background-size="contain" -->
-# Creativity: A Short and Cheerful Guide (book cover) <!-- .element class="hidden" -->
+### Creativity: A Short and Cheerful Guide (book cover) <!-- .element class="hidden" -->
 
 <!-- Note -->
 John Cleese has written an excellent book on creativity. And in it he
@@ -435,7 +435,7 @@ keep our mind in that state of playfulness for some time, because it
 takes a little while for new ideas to pop into our head.
 
 
-# John Cleese's quote <!-- .element class="hidden" -->
+### John Cleese's quote <!-- .element class="hidden" -->
 > “The greatest killer of creativity is interruption. It pulls your
 > mind away from what you want to be thinking about.”
 
@@ -456,7 +456,7 @@ Also, if you are a manager, this is the kind of person you want on
 your team:
 
 
-# Maari's quote <!-- .element class="hidden" -->
+### Maari's quote <!-- .element class="hidden" -->
 > “I am out of ideas on this one. I will step back and do &lt;other thing&gt;
 > and come back to this tomorrow.”
 
@@ -483,7 +483,7 @@ staring out the window. Or while they're in the bath or shower.
 
 
 <!-- .slide: data-background-image="https://live.staticflickr.com/4327/36025453856_9283dd9c11_k_d.jpg" data-background-size="contain" -->
-# Jim Crocker <!-- .element class="hidden" -->
+### Jim Crocker <!-- .element class="hidden" -->
 
 <!-- Note -->
 Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, by
@@ -554,7 +554,7 @@ making that happen is to **let people think.**
 
 
 <!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" data-background-size="cover" data-timing="90" -->
-# There's hope! <!-- .element class="hidden" -->
+### There's hope! <!-- .element class="hidden" -->
 
 <!-- Note -->
 Photo:
@@ -591,8 +591,8 @@ interesting.
 
 
 <!-- .slide: data-timing="15" -->
-# Let people think <!-- .element class="hidden" -->
 Drop useless meetings.
+### Let people think <!-- .element class="hidden" -->
 
 Curb interruptions.
 
