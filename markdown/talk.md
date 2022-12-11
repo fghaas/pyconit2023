@@ -19,7 +19,7 @@ And I'll forgive you for thinking that, because there are two very
 common misconceptions about creativity. They're both very wrong, but
 they're very, very common. The one misconception is that a creativity
 is somehow the domain of the arts, that it happens in painting, music,
-drama, dance, fiction, poetry, etc. But nowhere else. And the second
+drama, dance, fiction, poetry, etc., but not elsewhere. And the second
 misconception is that creativity happens in big leaps, as in Mozart
 writing a new Symphony or Zaha Hadid designing a new building. Nothing
 could be further from the truth. Both of those things could not be
@@ -66,21 +66,21 @@ When we think about what the purpose of an education
 is, I think most people would agree that one central purpose of
 an education is to turn children into functioning valuable members
 of society, what we typically call a functional adult. So that's a
-general expectation that we have of the education system. Turn out
+general expectation that we have of the education system: turn out
 people who are well-developed, valuable members of society. 
 
 And now in most countries, children enter the education system when
 they're somewhere between 3 and 6 years old, and in most
 countries they exit the education system when they're either in their
-late teens or in their early twenties. We'll leave out academia for a
+late teens or in their early twenties. (We'll leave out academia for a
 bit because of course those people, people who go on into academic
 careers, they stay in educational institutions for longer because they
-themselves then go into teaching and research.
+themselves then go into teaching and research.)
 
 But, again, in most countries, *most* young adults exit the education
 system when they're in their late teens or early twenties. Having
-entered that system at age 3 to 6, that means that that spans a period
-of of 15 to 20 years.
+entered that system at age 3 to 6, that means that that time span is
+about 15 to 20 years.
 
 So the education that a child enters at a certain age is basically
 meant to prepare the child for the world 15 to 20 years in
@@ -96,13 +96,12 @@ today travels into the past, meets you a year ago and then reads you
 the headlines of today's news. You would probably dismiss that person
 as a lunatic.
 
-Likewise, if there was a person visiting from the future today from a
-year in the future, coming back to today and reading you the headlines
-of that day, you'd probably dismiss that person as lunatic as
-well. And finally, if you were to sit down tonight and try to write
-down the headlines for December 14, 2023, and you then actually read
-them on the day, you'll probably find that your predictions are
-nowhere near accurate.
+Likewise, if there was a person visiting from a year in the future,
+coming back to today and reading you the headlines of that day, you'd
+probably dismiss that person as lunatic as well. And finally, if you
+were to sit down tonight and try to write down the headlines for
+December 14, 2023, and you then actually read them on the day, you'll
+probably find that your predictions are nowhere near accurate.
 
 So we have no idea what the world's gonna look like, we have no idea
 what the future's gonna look like. Everything is uncertain. We're
@@ -201,7 +200,7 @@ ticket to burnout.
 ![A graph visualizing one binary decision based on a current situation](images/creativedecision.svg)
 
 <!-- Note -->
-Now compare that to a different approach where we dealing with
+Now compare that to a different approach where we apply
 creativity. Always saying, at every stage we're going to look at
 the options and then we gonna come up with the ideas to do what's
 best. Notice that it every stage here what you need to do is you
@@ -262,10 +261,10 @@ of us, managers or not, have gone through that institution.
 
 And that institution is school.
 
-Now. I can't speak to your personal school experience, but I
-can speak to mine. I can summarize my entire schooling, all of it in
-three sentences. Here are three things that applied to all of my
-schooling.
+Now. I can't speak to your personal school experience, but I can speak
+to mine. I can summarize my entire schooling, all of it, in three
+sentences. Here are the three things that I learned in all of my
+schooling:
 
 
 <!-- .slide: data-timing="120" -->
@@ -290,8 +289,7 @@ and two spelling mistakes, and four misplaced commas, and they didn't
 quite adhere to the style rules that we were taught.  So they made C's
 or 3s even though their stories were better.
 
-And I was so good at applying rules that I became one of the category
-of rule champions in school. We call them straight-A students.
+And I was so good at applying rules that I became a straight-A student.
 Now if grades in school actually meant anything, a straight-A student
 should not exist. Never. Because making A's basically means
 you are an above average, excellent student in a specific subject, and
@@ -304,7 +302,7 @@ be a straight-A student, but that's not how grades work in school.
 They actually don't give you any kind of feedback about
 whether you're actually really good at something, whether you're
 actually excelling at something. But what school does is it warps the
-idea of excellence, to mean industrious compliance. 
+idea of excellence, to mean industrious, meticulous compliance. 
 
 
 ### Excellence in school
@@ -468,8 +466,8 @@ in an issue tracker comment (2022) <!-- .element class="fragment" -->
 <!-- Note -->
 This is a person who has eminently understood how the human mind
 works. How many of you have had a good idea in the shower? You'll
-understand this. Stepping away and thinking about something else ---
-whether it's work-related or not --- is a productive thing to
+understand this. Stepping away and thinking about something else —
+whether it's work-related or not — is a productive thing to
 do. Enable people to do that. Encourage it, support it, and do it
 yourself.
 
@@ -489,7 +487,7 @@ staring out the window. Or while they're in the bath or shower.
 
 <!-- Note -->
 Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, by
-NASA/Joel Kowsky, used under [NASA Media Usage
+NASA/Joel Kowsky, used under [NASA Media Usage
 Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html).
 
 Allowing your mind to let go for a bit can lead to creative
@@ -555,7 +553,7 @@ mindset for the issues of *tomorrow.* And a first imperative for
 making that happen is to **let people think.**
 
 
-<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" data-background-size="cover" -->
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg" data-background-size="cover" data-timing="90" -->
 # There's hope! <!-- .element class="hidden" -->
 
 <!-- Note -->
@@ -592,6 +590,7 @@ the other 55 minutes for thinking. And that’s where things get
 interesting.
 
 
+<!-- .slide: data-timing="15" -->
 # Let people think <!-- .element class="hidden" -->
 Drop useless meetings.
 
