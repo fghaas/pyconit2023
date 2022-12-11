@@ -422,10 +422,10 @@ have the original ideas that have value that we want them to have?
 ### Creativity: A Short and Cheerful Guide (book cover) <!-- .element class="hidden" -->
 
 <!-- Note -->
-John Cleese has written an excellent book on creativity. And in it he
-asserts that the ability to let your mind wander and thereby become
-open to developing new ideas is a key element of the creative
-process. He calls this mental play.
+John Cleese has written an excellent book — not a rulebook! — on
+creativity. And in it he asserts that the ability to let your mind
+wander and thereby become open to developing new ideas is a key
+element of the creative process. He calls this mental play.
 
 And this is by no means limited to music or literature or the arts; he
 lists several examples of mental playfulness leading to groundbreaking
@@ -476,10 +476,10 @@ came to me on a walk or on a bike ride. Every one. I had not a single
 original idea for this at my desk. I get ideas by getting out in the
 open air.
 
-Others may be getting ideas differently. In the strange no man's land
-between being awake and being asleep, just before dozing off (this was
-apparently true for Thomas Edison). Or maybe while they're just
-staring out the window. Or while they're in the bath or shower.
+Other people may be getting ideas differently. Thomas Edison, for
+example, apparently had ideas in the strange no man's land between
+being awake and being asleep, just before dozing off. Others get ideas
+while staring out the window. Or while they're in the shower.
 
 
 <!-- .slide: data-background-image="https://live.staticflickr.com/4327/36025453856_9283dd9c11_k_d.jpg" data-background-size="contain" -->
@@ -490,18 +490,16 @@ Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, by
 NASA/Joel Kowsky, used under [NASA Media Usage
 Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html).
 
-Allowing your mind to let go for a bit can lead to creative
-breakthroughs in engineering, even in tricky problems that you
-normally perhaps wouldn't associate with creativity at all: [Jim
-Crocker](https://appel.nasa.gov/2010/09/20/jim-crocker-on-systems-engineering/)
-was the Ball Aerospace engineer who solved the problem of how exactly
-the [corrective
-optics](https://en.wikipedia.org/wiki/Corrective_Optics_Space_Telescope_Axial_Replacement)
-on the Hubble Space Telescope should be installed — obviously not a
-scenario that anyone accounted for in Hubble’s design.  The ingenious
-idea that ended up saving Hubble from being a multibillion dollar
-boondoggle [came to him in the
-shower](https://www.wherewhywhen.com/the-hubble-telescope-costar-fix-jim-crocker/).
+Like this guy: the is [Jim
+Crocker](https://appel.nasa.gov/2010/09/20/jim-crocker-on-systems-engineering/),
+"the man who saved Hubble". You know when the Hubble Space Telescope
+went up in the 1990s, it had a mirror that was perfectly ground to
+imperfect specifications. So it couldn't see straight, and needed
+corrective lenses. Which of course were never envisioned in the
+original design. And nobody could figure out how to fit them into the
+telescope until Jim had a lightbulb moment [in the shower, at a hotel
+in
+Germany]((https://www.wherewhywhen.com/the-hubble-telescope-costar-fix-jim-crocker/).
 
 There's another problem in which contemporary offices are a hindrance
 to creativity. In offices like the one Jim Crocker had in the 90s,
@@ -543,7 +541,7 @@ it](https://twitter.com/pleia2/status/1456629767743016966), and of
 course also making it a target they call “engagement” or some other
 abomination.
 
-Organizations that do that are at risk of constantly shutting down
+Organizations that do that are at risk of permanently shutting down
 creativity, problem-solving, and innovation. What they’re good for is
 developing efficient cookie-cutter techniques for optimizing solutions
 for *yesterday’s* issues. What we need *today* — in a global pandemic,
@@ -591,16 +589,21 @@ interesting.
 
 
 <!-- .slide: data-timing="15" -->
-Drop useless meetings.
 ### Let people think <!-- .element class="hidden" -->
+Get away from chat.
 
-Curb interruptions.
+Curb useless meetings.
 
 **Let people think.**
 
 <!-- Note -->
-So cut those standups.
+So default to something other than chat.
 
-Default to something other than chat.
+Cut those standups and other useless meetings.
 
 Let people think.
+
+And watch what happens. It won't be magic, it will humanity. Doing
+what we're good at.
+
+Thank you.
