@@ -4,6 +4,7 @@
 */
 body:after {
   content: '@xahteiwi@mastodon.social';
+  color: white;
   opacity: 0.5;
   font-size: 150%;
   font-family: "Source Sans Pro", sans-serif;
