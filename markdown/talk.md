@@ -418,7 +418,7 @@ do to foster creativity?  What else can we do to enable people to
 have the original ideas that have value that we want them to have?
 
 
-<!-- .slide: data-background-image="https://books.google.at/books/publisher/content?id=fUjNDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U0eH1mTCjH0dza4G8wSmpLUafeqrw&w=685" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://cdn.penguin.co.uk/dam-assets/books/9781529157529/9781529157529-jacket-large.jpg" data-background-size="contain" -->
 ### Creativity: A Short and Cheerful Guide (book cover) <!-- .element class="hidden" -->
 
 <!-- Note -->
