@@ -113,7 +113,7 @@ And when you think about how to deal with this uncertainty,
 I think you have three principal options. 
 
 
-### How we can deal with uncertainty?
+### How we can deal with uncertainty
 
 *Fatalism* <!-- .element class="fragment" -->
 
