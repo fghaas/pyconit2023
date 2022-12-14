@@ -490,7 +490,7 @@ Photo: <https://www.flickr.com/photos/nasahubble/36025453856>, by
 NASA/Joel Kowsky, used under [NASA Media Usage
 Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html).
 
-Like this guy: the is [Jim
+Like this guy: this is [Jim
 Crocker](https://appel.nasa.gov/2010/09/20/jim-crocker-on-systems-engineering/),
 "the man who saved Hubble". You know when the Hubble Space Telescope
 went up in the 1990s, it had a mirror that was perfectly ground to
@@ -603,7 +603,7 @@ Cut those standups and other useless meetings.
 
 Let people think.
 
-And watch what happens. It won't be magic, it will humanity. Doing
+And watch what happens. It won't be magic, it will be humanity. Doing
 what we're good at.
 
 Thank you.
