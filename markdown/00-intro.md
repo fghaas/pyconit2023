@@ -3,13 +3,13 @@ How we lost it, why that's bad, and how we get it back
 
 * * *
 
-Florian Haas | Cleura | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
+Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 
-DevOpsDays Tel Aviv 2022 | 2022-12-14
+PyCon 🇮🇹 2023 | 2023-05-26
 
 <!-- Note -->
-This presentation is a 30-minute Spotlight Talk presented at
-[DevOpsDays Tel Aviv](https://devopsdaystlv.com/) 2022. It is
+This presentation is a 30-minute Talk presented at
+[PyCon Italia](https://pycon.it/) 2023. It is
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 licensed, see [the license](/LICENSE) for details.
 
