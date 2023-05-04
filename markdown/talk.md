@@ -5,19 +5,17 @@
 Please feel free to scan this QR code if you'd like to follow along
 with my slides.
 
-Yes, I know I'm the person between you and your drinks. I do
-acknowledge that. And I also understand that I might be the person
-between you and your hummus. Which in this country is probably even
-worse. And then, you might also be thinking, what on earth is this guy
-talking about? And why is he here? This is, after all, a technology
-conference. And not only that, it's a DevOps meeting. So that means
-that we're all about incrementally improving things, gradually
-changing and reimplementing things without breaking them. Where's the
+You might be thinking, what on earth is this guy talking about?  And
+why is he here? This is, after all, a technology conference. And not
+only that, it's a software developer meeting. So that means most of
+what we do is — or at least should be — about incrementally improving
+things, gradually changing and reimplementing things without breaking
+them. And then there's testing, and QA, and documentation. Where's the
 room for creativity in that?
 
 And I'll forgive you for thinking that, because there are two very
 common misconceptions about creativity. They're both very wrong, but
-they're very, very common. The one misconception is that a creativity
+they're very, very common. The one misconception is that creativity
 is somehow the domain of the arts, that it happens in painting, music,
 drama, dance, fiction, poetry, etc., but not elsewhere. And the second
 misconception is that creativity happens in big leaps, as in Mozart
@@ -100,7 +98,7 @@ Likewise, if there was a person visiting from a year in the future,
 coming back to today and reading you the headlines of that day, you'd
 probably dismiss that person as lunatic as well. And finally, if you
 were to sit down tonight and try to write down the headlines for
-December 14, 2023, and you then actually read them on the day, you'll
+May 26, 2024, and you then actually read them on the day, you'll
 probably find that your predictions are nowhere near accurate.
 
 So we have no idea what the world's gonna look like, we have no idea
