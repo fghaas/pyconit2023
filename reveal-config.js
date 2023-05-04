@@ -2,12 +2,12 @@
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
 
-    controls: true,
+    controls: false,
 
     progress: true,
     history: true,
     center: true,
-    showNotes: true,
+    showNotes: false,
 
     transition: 'fade',
 
