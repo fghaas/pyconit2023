@@ -10,8 +10,8 @@ why is he here? This is, after all, a technology conference. And not
 only that, it's a software developer meeting. So that means most of
 what we do is — or at least should be — about incrementally improving
 things, gradually changing and reimplementing things without breaking
-them. And then there's testing, and QA, and documentation. Where's the
-room for creativity in that?
+them. Hopefully. And then there's testing, and QA, and
+documentation. Where's the room for creativity in that?
 
 And I'll forgive you for thinking that, because there are two very
 common misconceptions about creativity. They're both very wrong, but
@@ -85,27 +85,9 @@ meant to prepare the child for the world 15 to 20 years in
 the future. When we have no idea what the world's gonna look like 6
 months from now, or a year from now.
 
-
-### A quick thought experiment...
-
-<!-- Note -->
-If we want to do a quick thought experiment, assume that a person from
-today travels into the past, meets you a year ago and then reads you
-the headlines of today's news. You would probably dismiss that person
-as a lunatic.
-
-Likewise, if there was a person visiting from a year in the future,
-coming back to today and reading you the headlines of that day, you'd
-probably dismiss that person as lunatic as well. And finally, if you
-were to sit down tonight and try to write down the headlines for
-May 26, 2024, and you then actually read them on the day, you'll
-probably find that your predictions are nowhere near accurate.
-
-So we have no idea what the world's gonna look like, we have no idea
-what the future's gonna look like. Everything is uncertain. We're
-always dealing with this kind of uncertainty. And this is as true for
-children entering school, as it is for adults in the middle of their
-careers right now.
+Try writing the news headlines of the day, for a year from
+now. Chances are, you'll be so far off it's unreal. You don't stand a
+chance predicting what the world will look like a year from now.
 
 And when you think about how to deal with this uncertainty,
 I think you have three principal options. 
