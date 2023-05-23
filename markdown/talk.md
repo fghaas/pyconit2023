@@ -1,9 +1,19 @@
-<!-- .slide: data-timing="60" data-background-image="images/qrcode.svg" data-background-size="contain" -->
+<!-- .slide: data-timing="75" data-background-image="images/qrcode.svg" data-background-size="contain" -->
 ### QR code <!-- .element class="hidden" -->
 
 <!-- Note -->
-Please feel free to scan this QR code if you'd like to follow along
-with my slides.
+Accessibility note:
+
+* Please scan this if you have vision issues, or sit at the back of
+  the room.
+* Slides on your device will advance in lockstep with the screen
+  (provided the Wi-Fi doesn't give out).
+* Also, if you are prone to migraines and can't stare at a bright
+  screen for long, please *also* scan this as the slides on your
+  device will use an inverted colour scheme. This may be easier on
+  your eyes (and brains).
+
+*Opportunity to thank volunteers & organisers.*
 
 You might be thinking, what on earth is this guy talking about?  And
 why is he here? This is, after all, a technology conference. And not
