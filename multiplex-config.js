@@ -1,1 +1,4 @@
-var multiplex_config = {"secret":null,"socketId":"5f628bb130d4f189"};
+var multiplex_config = {
+    "secret": null,
+    "socketId": "2ca2d76487429f2a"
+};
