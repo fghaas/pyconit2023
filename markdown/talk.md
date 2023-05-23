@@ -70,13 +70,6 @@ out that that didn't come out of a hippy-touchy-feely, let's all be
 artists, let's all be musicians kind of approach, but rather out of
 economic necessity.
 
-When we think about what the purpose of an education
-is, I think most people would agree that one central purpose of
-an education is to turn children into functioning valuable members
-of society, what we typically call a functional adult. So that's a
-general expectation that we have of the education system: turn out
-people who are well-developed, valuable members of society. 
-
 And now in most countries, children enter the education system when
 they're somewhere between 3 and 6 years old, and in most
 countries they exit the education system when they're either in their
@@ -89,6 +82,12 @@ But, again, in most countries, *most* young adults exit the education
 system when they're in their late teens or early twenties. Having
 entered that system at age 3 to 6, that means that that time span is
 about 15 to 20 years.
+
+And I think most people would agree that one central *purpose* of
+an education is to turn children into functioning valuable members
+of society, what we typically call a functional adult. So that's a
+general expectation that we have of the education system: turn out
+people who are well-developed, valuable members of society.
 
 So the education that a child enters at a certain age is basically
 meant to prepare the child for the world 15 to 20 years in
