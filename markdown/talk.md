@@ -1,9 +1,19 @@
-<!-- .slide: data-timing="60" data-background-image="images/qrcode.svg" data-background-size="contain" -->
+<!-- .slide: data-timing="75" data-background-image="images/qrcode.svg" data-background-size="contain" -->
 ### QR code <!-- .element class="hidden" -->
 
 <!-- Note -->
-Please feel free to scan this QR code if you'd like to follow along
-with my slides.
+Accessibility note:
+
+* Please scan this if you have vision issues, or sit at the back of
+  the room.
+* Slides on your device will advance in lockstep with the screen
+  (provided the Wi-Fi doesn't give out).
+* Also, if you are prone to migraines and can't stare at a bright
+  screen for long, please *also* scan this as the slides on your
+  device will use an inverted colour scheme. This may be easier on
+  your eyes (and brains).
+
+*Opportunity to thank volunteers & organisers.*
 
 You might be thinking, what on earth is this guy talking about?  And
 why is he here? This is, after all, a technology conference. And not
@@ -60,13 +70,6 @@ out that that didn't come out of a hippy-touchy-feely, let's all be
 artists, let's all be musicians kind of approach, but rather out of
 economic necessity.
 
-When we think about what the purpose of an education
-is, I think most people would agree that one central purpose of
-an education is to turn children into functioning valuable members
-of society, what we typically call a functional adult. So that's a
-general expectation that we have of the education system: turn out
-people who are well-developed, valuable members of society. 
-
 And now in most countries, children enter the education system when
 they're somewhere between 3 and 6 years old, and in most
 countries they exit the education system when they're either in their
@@ -79,6 +82,12 @@ But, again, in most countries, *most* young adults exit the education
 system when they're in their late teens or early twenties. Having
 entered that system at age 3 to 6, that means that that time span is
 about 15 to 20 years.
+
+And I think most people would agree that one central *purpose* of
+an education is to turn children into functioning valuable members
+of society, what we typically call a functional adult. So that's a
+general expectation that we have of the education system: turn out
+people who are well-developed, valuable members of society.
 
 So the education that a child enters at a certain age is basically
 meant to prepare the child for the world 15 to 20 years in
