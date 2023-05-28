@@ -13,6 +13,8 @@ Accessibility note:
   device will use an inverted colour scheme. This may be easier on
   your eyes (and brains).
 
+* * *
+
 You might be thinking, what on earth is this guy talking about?  And
 why is he here? This is, after all, a technology conference. And not
 only that, it's a software developer meeting. So that means most of
