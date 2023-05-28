@@ -13,8 +13,6 @@ Accessibility note:
   device will use an inverted colour scheme. This may be easier on
   your eyes (and brains).
 
-*Opportunity to thank volunteers & organisers.*
-
 You might be thinking, what on earth is this guy talking about?  And
 why is he here? This is, after all, a technology conference. And not
 only that, it's a software developer meeting. So that means most of
@@ -353,26 +351,6 @@ these rulebooks in the first place. Because obviously this doesn't
 work like the discovery of new laws of nature, like we do in
 experimental physics.
 
-**Optional content — skip if short on time**
-
-*In experimental physics, you come from a hypothesis that is based on
-the current state of theory. And then you figure out an experiment
-that might serve to disprove your hypothesis. And then you conduct the
-experiment. And if it disproves your hypothesis, then the experiment
-is a success, and you can discard the hypothesis and you go on to the
-next hypothesis and the next experiment.*
-
-*But of course, in business it doesn't work that way because you cannot
-build these experimental setups. It's obviously not an option to, say,
-try a new project management approach for a business-critical project
-and then say, oh great, that failed! We've run the company into the
-ground, we've bankrupted two suppliers and a hundred people have to
-find new jobs, but now we can start over and try the next method!
-Because that's incompatible with how our economy works, and it's also
-quite unethical if people's livelihoods are at stake.*
-
-**Optional content ends**
-
 
 <!-- .slide: data-timing="120" -->
 ### Correlation? Causation?
@@ -538,18 +516,6 @@ subordinates. That’s how you get to Slack-driven companies. That’s how
 you end up in a culture where people are proud of getting back to any
 email within 30 minutes (or less), and expecting the same from
 everyone.
-
-**Optional content — skip if short on time**
-
-*That’s how you end up with managers who take being signed
-into a chat (and thereby *constantly* listening for interruptions) as
-a measure of being “active”, so much so that they [end up tracking
-metrics for
-it](https://twitter.com/pleia2/status/1456629767743016966), and of
-course also making it a target they call “engagement” or some other
-abomination.*
-
-**Optional content ends***
 
 Organizations that do that are at risk of permanently shutting down
 creativity, problem-solving, and innovation. What they’re good for is
